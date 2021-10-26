@@ -692,7 +692,7 @@ p {
           line-height: 24px;
           font-weight: 700;
           padding: 11px 16px;
-          color: #fff;
+          color: #7b7d7d;
           text-transform: uppercase;
           position: relative;
           border-radius: 5px;
@@ -772,6 +772,7 @@ p {
               visibility: visible !important;
               display: none;
               right: auto;
+
               -webkit-transform: translateX(0%);
               -moz-transform: translateX(0%);
               -ms-transform: translateX(0%);
@@ -796,6 +797,7 @@ p {
               opacity: 1 !important;
               visibility: visible !important;
               display: none;
+
               right: auto;
               -webkit-transform: translateX(0%);
               -moz-transform: translateX(0%);
