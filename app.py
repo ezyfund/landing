@@ -86,4 +86,4 @@ def thnx_investor():
 
 if __name__ == "__main__":
     
-    application.run(debug=True,port=8111)
+    application.run(debug=True,port=8111,ssl_context='adhoc')
